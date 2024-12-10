@@ -111,6 +111,9 @@ dependencies {
   //noinspection GradleDynamicVersion
   implementation "com.facebook.react:react-native:+"
   implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+  implementation("androidx.security:security-crypto-ktx:1.1.0-alpha06")
+  implementation("androidx.security:security-crypto-ktx:1.1.0-alpha06")
+
 }
 
 if (isNewArchitectureEnabled()) {
