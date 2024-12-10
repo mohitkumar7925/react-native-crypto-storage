@@ -1,6 +1,14 @@
 # react-native-crypto-storage
 
-Android's EncryptedSharedPreferences and iOS' Keychain
+React Native Turbo Module built for encrypted storage using Android's EncryptedSharedPreferences and iOS' Keychain
+
+## Feature 
+
+- Android: EncryptedSharedPreferences
+- iOS: KeyChain
+- Turbo Native Module
+- Encrypted secure storage
+
 
 ## Installation
 
