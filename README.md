@@ -7,6 +7,14 @@ Android's EncryptedSharedPreferences and iOS' Keychain
 ```sh
 npm install react-native-crypto-storage
 ```
+
+## Linking
+
+For iOS, run:
+
+```bash
+$ npx pod-install
+```
 ## Usage
 
 ```js
