@@ -1,6 +1,6 @@
 {
   "name": "react-native-crypto-storage",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Android's EncryptedSharedPreferences and iOS' Keychain",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
