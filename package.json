@@ -48,7 +48,12 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "keychain",
+    "encrypted",
+    "storage",
+    "secure",
+    "crypto"
   ],
   "repository": {
     "type": "git",
